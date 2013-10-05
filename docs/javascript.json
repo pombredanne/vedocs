@@ -1,0 +1,376 @@
+{
+	"constructor": [
+		{
+			"name": "Array",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Array"
+		},
+		{
+			"name": "ArrayBuffer",
+			"link": "/en-US/docs/JavaScript_typed_arrays/ArrayBuffer"
+		},
+		{
+			"name": "Boolean",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Boolean"
+		},
+		{
+			"name": "Collator",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Collator"
+		},
+		{
+			"name": "DataView",
+			"link": "/en-US/docs/JavaScript_typed_arrays/DataView"
+		},
+		{
+			"name": "Date",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Date"
+		},
+		{
+			"name": "DateTimeFormat",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/DateTimeFormat"
+		},
+		{
+			"name": "decodeURI",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/decodeURI"
+		},
+		{
+			"name": "decodeURIComponent",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/decodeURIComponent"
+		},
+		{
+			"name": "encodeURI",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/encodeURI"
+		},
+		{
+			"name": "encodeURIComponent",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/encodeURIComponent"
+		},
+		{
+			"name": "Error",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Error"
+		},
+		{
+			"name": "eval",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/eval"
+		},
+		{
+			"name": "EvalError",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/EvalError"
+		},
+		{
+			"name": "Float32Array",
+			"link": "/en-US/docs/JavaScript_typed_arrays/Float32Array"
+		},
+		{
+			"name": "Float64Array",
+			"link": "/en-US/docs/JavaScript_typed_arrays/Float64Array"
+		},
+		{
+			"name": "Function",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Function"
+		},
+		{
+			"name": "Infinity",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Infinity"
+		},
+		{
+			"name": "Intl",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Intl"
+		},
+		{
+			"name": "Int16Array",
+			"link": "/en-US/docs/JavaScript_typed_arrays/Int16Array"
+		},
+		{
+			"name": "Int32Array",
+			"link": "/en-US/docs/JavaScript_typed_arrays/Int32Array"
+		},
+		{
+			"name": "Int8Array",
+			"link": "/en-US/docs/JavaScript_typed_arrays/Int8Array"
+		},
+		{
+			"name": "isFinite",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/isFinite"
+		},
+		{
+			"name": "isNaN",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/isNaN"
+		},
+		{
+			"name": "Iterator",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Iterator"
+		},
+		{
+			"name": "JSON",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/JSON"
+		},
+		{
+			"name": "Math",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Math"
+		},
+		{
+			"name": "NaN",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/NaN"
+		},
+		{
+			"name": "Number",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Number"
+		},
+		{
+			"name": "NumberFormat",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/NumberFormat"
+		},
+		{
+			"name": "Object",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/Object"
+		},
+		{
+			"name": "parseFloat",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/parseFloat"
+		},
+		{
+			"name": "parseInt",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/parseInt"
+		},
+		{
+			"name": "RangeError",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/RangeError"
+		},
+		{
+			"name": "ReferenceError",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/ReferenceError"
+		},
+		{
+			"name": "RegExp",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/RegExp"
+		},
+		{
+			"name": "StopIteration",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/StopIteration"
+		},
+		{
+			"name": "String",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/String"
+		},
+		{
+			"name": "SyntaxError",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/SyntaxError"
+		},
+		{
+			"name": "TypeError",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/TypeError"
+		},
+		{
+			"name": "Uint16Array",
+			"link": "/en-US/docs/JavaScript_typed_arrays/Uint16Array"
+		},
+		{
+			"name": "Uint32Array",
+			"link": "/en-US/docs/JavaScript_typed_arrays/Uint32Array"
+		},
+		{
+			"name": "Uint8Array",
+			"link": "/en-US/docs/JavaScript_typed_arrays/Uint8Array"
+		},
+		{
+			"name": "Uint8ClampedArray",
+			"link": "/en-US/docs/JavaScript_typed_arrays/Uint8ClampedArray"
+		},
+		{
+			"name": "undefined",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/undefined"
+		},
+		{
+			"name": "uneval",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/uneval"
+		},
+		{
+			"name": "URIError",
+			"link": "/en-US/docs/JavaScript/Reference/Global_Objects/URIError"
+		}
+	],
+	"statement": [
+		{
+			"name": "block",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/block"
+		},
+		{
+			"name": "break",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/break"
+		},
+		{
+			"name": "const",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/const"
+		},
+		{
+			"name": "continue",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/continue"
+		},
+		{
+			"name": "debugger",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/debugger"
+		},
+		{
+			"name": "do...while",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/do...while"
+		},
+		{
+			"name": "export",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/export"
+		},
+		{
+			"name": "for",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for"
+		},
+		{
+			"name": "for each...in",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for_each...in"
+		},
+		{
+			"name": "for...in",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for...in"
+		},
+		{
+			"name": "for...of",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for...of"
+		},
+		{
+			"name": "function",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/function"
+		},
+		{
+			"name": "if...else",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/if...else"
+		},
+		{
+			"name": "import",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/import"
+		},
+		{
+			"name": "label",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/label"
+		},
+		{
+			"name": "let",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/let"
+		},
+		{
+			"name": "return",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/return"
+		},
+		{
+			"name": "switch",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/switch"
+		},
+		{
+			"name": "throw",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/throw"
+		},
+		{
+			"name": "try...catch",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/try...catch"
+		},
+		{
+			"name": "var",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/var"
+		},
+		{
+			"name": "while",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/while"
+		},
+		{
+			"name": "with",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/with"
+		},
+		{
+			"name": "yield",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/yield"
+		}
+	],
+	"operator": [
+		{
+			"name": "Arithmetic Operators",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/Arithmetic_Operators"
+		},
+		{
+			"name": "Assignment Operators",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/Assignment_Operators"
+		},
+		{
+			"name": "Bitwise Operators",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/Bitwise_Operators"
+		},
+		{
+			"name": "Comparison Operators",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/Comparison_Operators"
+		},
+		{
+			"name": "Logical Operators",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/Logical_Operators"
+		},
+		{
+			"name": "String Operators",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/String_Operators"
+		},
+		{
+			"name": "Member Operators",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/Member_Operators"
+		},
+		{
+			"name": "Conditional Operator",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/Conditional_Operator"
+		},
+		{
+			"name": "Comma Operator",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/Comma_Operator"
+		},
+		{
+			"name": "delete Operator",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/delete"
+		},
+		{
+			"name": "in Operator",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/in"
+		},
+		{
+			"name": "instanceof Operator",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/instanceof"
+		},
+		{
+			"name": "new Operator",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/new"
+		},
+		{
+			"name": "typeof Operator",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/typeof"
+		},
+		{
+			"name": "void Operator",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/void"
+		},
+		{
+			"name": "yield Operator",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/yield"
+		},
+		{
+			"name": "Operator Precedence",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/Operator_Precedence"
+		},
+		{
+			"name": "get Modifier",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/get"
+		},
+		{
+			"name": "set Modifier",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/set"
+		},
+		{
+			"name": "function Keyword",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/function"
+		},
+		{
+			"name": "this Keyword",
+			"link": "/en-US/docs/JavaScript/Reference/Operators/this"
+		}
+	]
+}
