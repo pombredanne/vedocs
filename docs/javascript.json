@@ -211,8 +211,8 @@
 			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/debugger"
 		},
 		{
-			"name": "do...while",
-			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/do...while"
+			"name": "do while",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/do while"
 		},
 		{
 			"name": "export",
@@ -223,24 +223,24 @@
 			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for"
 		},
 		{
-			"name": "for each...in",
-			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for_each...in"
+			"name": "for each in",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for_each in"
 		},
 		{
-			"name": "for...in",
-			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for...in"
+			"name": "for in",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for in"
 		},
 		{
-			"name": "for...of",
-			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for...of"
+			"name": "for of",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/for of"
 		},
 		{
 			"name": "function",
 			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/function"
 		},
 		{
-			"name": "if...else",
-			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/if...else"
+			"name": "if else",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/if else"
 		},
 		{
 			"name": "import",
@@ -267,8 +267,8 @@
 			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/throw"
 		},
 		{
-			"name": "try...catch",
-			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/try...catch"
+			"name": "try catch",
+			"link": "/en-US/docs/Web/JavaScript/Reference/Statements/try catch"
 		},
 		{
 			"name": "var",
