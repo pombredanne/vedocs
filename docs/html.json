@@ -1,0 +1,456 @@
+{
+  "element": [
+    {
+      "name": "a",
+      "link": "/en-US/docs/Web/HTML/Element/a"
+    },
+    {
+      "name": "abbr",
+      "link": "/en-US/docs/Web/HTML/Element/abbr"
+    },
+    {
+      "name": "address",
+      "link": "/en-US/docs/Web/HTML/Element/address"
+    },
+    {
+      "name": "area",
+      "link": "/en-US/docs/Web/HTML/Element/area"
+    },
+    {
+      "name": "article",
+      "link": "/en-US/docs/Web/HTML/Element/article"
+    },
+    {
+      "name": "aside",
+      "link": "/en-US/docs/Web/HTML/Element/aside"
+    },
+    {
+      "name": "audio",
+      "link": "/en-US/docs/Web/HTML/Element/audio"
+    },
+    {
+      "name": "b",
+      "link": "/en-US/docs/Web/HTML/Element/b"
+    },
+    {
+      "name": "base",
+      "link": "/en-US/docs/Web/HTML/Element/base"
+    },
+    {
+      "name": "bdi",
+      "link": "/en-US/docs/Web/HTML/Element/bdi"
+    },
+    {
+      "name": "bdo",
+      "link": "/en-US/docs/Web/HTML/Element/bdo"
+    },
+    {
+      "name": "blockquote",
+      "link": "/en-US/docs/Web/HTML/Element/blockquote"
+    },
+    {
+      "name": "body",
+      "link": "/en-US/docs/Web/HTML/Element/body"
+    },
+    {
+      "name": "br",
+      "link": "/en-US/docs/Web/HTML/Element/br"
+    },
+    {
+      "name": "button",
+      "link": "/en-US/docs/Web/HTML/Element/button"
+    },
+    {
+      "name": "canvas",
+      "link": "/en-US/docs/Web/HTML/Element/canvas"
+    },
+    {
+      "name": "caption",
+      "link": "/en-US/docs/Web/HTML/Element/caption"
+    },
+    {
+      "name": "cite",
+      "link": "/en-US/docs/Web/HTML/Element/cite"
+    },
+    {
+      "name": "code",
+      "link": "/en-US/docs/Web/HTML/Element/code"
+    },
+    {
+      "name": "col",
+      "link": "/en-US/docs/Web/HTML/Element/col"
+    },
+    {
+      "name": "colgroup",
+      "link": "/en-US/docs/Web/HTML/Element/colgroup"
+    },
+    {
+      "name": "content",
+      "link": "/en-US/docs/Web/HTML/Element/content"
+    },
+    {
+      "name": "data",
+      "link": "/en-US/docs/Web/HTML/Element/data"
+    },
+    {
+      "name": "datalist",
+      "link": "/en-US/docs/Web/HTML/Element/datalist"
+    },
+    {
+      "name": "dd",
+      "link": "/en-US/docs/Web/HTML/Element/dd"
+    },
+    {
+      "name": "decorator",
+      "link": "/en-US/docs/Web/HTML/Element/decorator"
+    },
+    {
+      "name": "del",
+      "link": "/en-US/docs/Web/HTML/Element/del"
+    },
+    {
+      "name": "details",
+      "link": "/en-US/docs/Web/HTML/Element/details"
+    },
+    {
+      "name": "dfn",
+      "link": "/en-US/docs/Web/HTML/Element/dfn"
+    },
+    {
+      "name": "div",
+      "link": "/en-US/docs/Web/HTML/Element/div"
+    },
+    {
+      "name": "dl",
+      "link": "/en-US/docs/Web/HTML/Element/dl"
+    },
+    {
+      "name": "dt",
+      "link": "/en-US/docs/Web/HTML/Element/dt"
+    },
+    {
+      "name": "em",
+      "link": "/en-US/docs/Web/HTML/Element/em"
+    },
+    {
+      "name": "embed",
+      "link": "/en-US/docs/Web/HTML/Element/embed"
+    },
+    {
+      "name": "fieldset",
+      "link": "/en-US/docs/Web/HTML/Element/fieldset"
+    },
+    {
+      "name": "figcaption",
+      "link": "/en-US/docs/Web/HTML/Element/figcaption"
+    },
+    {
+      "name": "figure",
+      "link": "/en-US/docs/Web/HTML/Element/figure"
+    },
+    {
+      "name": "footer",
+      "link": "/en-US/docs/Web/HTML/Element/footer"
+    },
+    {
+      "name": "form",
+      "link": "/en-US/docs/Web/HTML/Element/form"
+    },
+    {
+      "name": "h1",
+      "link": "/en-US/docs/Web/HTML/Element/h1"
+    },
+    {
+      "name": "h2",
+      "link": "/en-US/docs/Web/HTML/Element/h2"
+    },
+    {
+      "name": "h3",
+      "link": "/en-US/docs/Web/HTML/Element/h3"
+    },
+    {
+      "name": "h4",
+      "link": "/en-US/docs/Web/HTML/Element/h4"
+    },
+    {
+      "name": "h5",
+      "link": "/en-US/docs/Web/HTML/Element/h5"
+    },
+    {
+      "name": "h6",
+      "link": "/en-US/docs/Web/HTML/Element/h6"
+    },
+    {
+      "name": "head",
+      "link": "/en-US/docs/Web/HTML/Element/head"
+    },
+    {
+      "name": "header",
+      "link": "/en-US/docs/Web/HTML/Element/header"
+    },
+    {
+      "name": "hr",
+      "link": "/en-US/docs/Web/HTML/Element/hr"
+    },
+    {
+      "name": "html",
+      "link": "/en-US/docs/Web/HTML/Element/html"
+    },
+    {
+      "name": "i",
+      "link": "/en-US/docs/Web/HTML/Element/i"
+    },
+    {
+      "name": "iframe",
+      "link": "/en-US/docs/Web/HTML/Element/iframe"
+    },
+    {
+      "name": "img",
+      "link": "/en-US/docs/Web/HTML/Element/img"
+    },
+    {
+      "name": "input",
+      "link": "/en-US/docs/Web/HTML/Element/input"
+    },
+    {
+      "name": "ins",
+      "link": "/en-US/docs/Web/HTML/Element/ins"
+    },
+    {
+      "name": "kbd",
+      "link": "/en-US/docs/Web/HTML/Element/kbd"
+    },
+    {
+      "name": "keygen",
+      "link": "/en-US/docs/Web/HTML/Element/keygen"
+    },
+    {
+      "name": "label",
+      "link": "/en-US/docs/Web/HTML/Element/label"
+    },
+    {
+      "name": "legend",
+      "link": "/en-US/docs/Web/HTML/Element/legend"
+    },
+    {
+      "name": "li",
+      "link": "/en-US/docs/Web/HTML/Element/li"
+    },
+    {
+      "name": "link",
+      "link": "/en-US/docs/Web/HTML/Element/link"
+    },
+    {
+      "name": "main",
+      "link": "/en-US/docs/Web/HTML/Element/main"
+    },
+    {
+      "name": "map",
+      "link": "/en-US/docs/Web/HTML/Element/map"
+    },
+    {
+      "name": "mark",
+      "link": "/en-US/docs/Web/HTML/Element/mark"
+    },
+    {
+      "name": "menu",
+      "link": "/en-US/docs/Web/HTML/Element/menu"
+    },
+    {
+      "name": "menuitem",
+      "link": "/en-US/docs/Web/HTML/Element/menuitem"
+    },
+    {
+      "name": "meta",
+      "link": "/en-US/docs/Web/HTML/Element/meta"
+    },
+    {
+      "name": "meter",
+      "link": "/en-US/docs/Web/HTML/Element/meter"
+    },
+    {
+      "name": "nav",
+      "link": "/en-US/docs/Web/HTML/Element/nav"
+    },
+    {
+      "name": "noscript",
+      "link": "/en-US/docs/Web/HTML/Element/noscript"
+    },
+    {
+      "name": "object",
+      "link": "/en-US/docs/Web/HTML/Element/object"
+    },
+    {
+      "name": "ol",
+      "link": "/en-US/docs/Web/HTML/Element/ol"
+    },
+    {
+      "name": "optgroup",
+      "link": "/en-US/docs/Web/HTML/Element/optgroup"
+    },
+    {
+      "name": "option",
+      "link": "/en-US/docs/Web/HTML/Element/option"
+    },
+    {
+      "name": "output",
+      "link": "/en-US/docs/Web/HTML/Element/output"
+    },
+    {
+      "name": "p",
+      "link": "/en-US/docs/Web/HTML/Element/p"
+    },
+    {
+      "name": "param",
+      "link": "/en-US/docs/Web/HTML/Element/param"
+    },
+    {
+      "name": "pre",
+      "link": "/en-US/docs/Web/HTML/Element/pre"
+    },
+    {
+      "name": "progress",
+      "link": "/en-US/docs/Web/HTML/Element/progress"
+    },
+    {
+      "name": "q",
+      "link": "/en-US/docs/Web/HTML/Element/q"
+    },
+    {
+      "name": "rp",
+      "link": "/en-US/docs/Web/HTML/Element/rp"
+    },
+    {
+      "name": "rt",
+      "link": "/en-US/docs/Web/HTML/Element/rt"
+    },
+    {
+      "name": "ruby",
+      "link": "/en-US/docs/Web/HTML/Element/ruby"
+    },
+    {
+      "name": "s",
+      "link": "/en-US/docs/Web/HTML/Element/s"
+    },
+    {
+      "name": "samp",
+      "link": "/en-US/docs/Web/HTML/Element/samp"
+    },
+    {
+      "name": "script",
+      "link": "/en-US/docs/Web/HTML/Element/script"
+    },
+    {
+      "name": "section",
+      "link": "/en-US/docs/Web/HTML/Element/section"
+    },
+    {
+      "name": "select",
+      "link": "/en-US/docs/Web/HTML/Element/select"
+    },
+    {
+      "name": "shadow",
+      "link": "/en-US/docs/Web/HTML/Element/shadow"
+    },
+    {
+      "name": "small",
+      "link": "/en-US/docs/Web/HTML/Element/small"
+    },
+    {
+      "name": "source",
+      "link": "/en-US/docs/Web/HTML/Element/source"
+    },
+    {
+      "name": "span",
+      "link": "/en-US/docs/Web/HTML/Element/span"
+    },
+    {
+      "name": "strong",
+      "link": "/en-US/docs/Web/HTML/Element/strong"
+    },
+    {
+      "name": "style",
+      "link": "/en-US/docs/Web/HTML/Element/style"
+    },
+    {
+      "name": "sub",
+      "link": "/en-US/docs/Web/HTML/Element/sub"
+    },
+    {
+      "name": "summary",
+      "link": "/en-US/docs/Web/HTML/Element/summary"
+    },
+    {
+      "name": "sup",
+      "link": "/en-US/docs/Web/HTML/Element/sup"
+    },
+    {
+      "name": "table",
+      "link": "/en-US/docs/Web/HTML/Element/table"
+    },
+    {
+      "name": "tbody",
+      "link": "/en-US/docs/Web/HTML/Element/tbody"
+    },
+    {
+      "name": "td",
+      "link": "/en-US/docs/Web/HTML/Element/td"
+    },
+    {
+      "name": "template",
+      "link": "/en-US/docs/Web/HTML/Element/template"
+    },
+    {
+      "name": "textarea",
+      "link": "/en-US/docs/Web/HTML/Element/textarea"
+    },
+    {
+      "name": "tfoot",
+      "link": "/en-US/docs/Web/HTML/Element/tfoot"
+    },
+    {
+      "name": "th",
+      "link": "/en-US/docs/Web/HTML/Element/th"
+    },
+    {
+      "name": "thead",
+      "link": "/en-US/docs/Web/HTML/Element/thead"
+    },
+    {
+      "name": "time",
+      "link": "/en-US/docs/Web/HTML/Element/time"
+    },
+    {
+      "name": "title",
+      "link": "/en-US/docs/Web/HTML/Element/title"
+    },
+    {
+      "name": "tr",
+      "link": "/en-US/docs/Web/HTML/Element/tr"
+    },
+    {
+      "name": "track",
+      "link": "/en-US/docs/Web/HTML/Element/track"
+    },
+    {
+      "name": "u",
+      "link": "/en-US/docs/Web/HTML/Element/u"
+    },
+    {
+      "name": "ul",
+      "link": "/en-US/docs/Web/HTML/Element/ul"
+    },
+    {
+      "name": "var",
+      "link": "/en-US/docs/Web/HTML/Element/var"
+    },
+    {
+      "name": "video",
+      "link": "/en-US/docs/Web/HTML/Element/video"
+    },
+    {
+      "name": "wbr",
+      "link": "/en-US/docs/Web/HTML/Element/wbr"
+    }
+  ]
+}
