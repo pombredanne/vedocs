@@ -109,7 +109,7 @@
 			"link": "/en-US/docs/Web/CSS/background-size"
 		},
 		{
-			"name": "::before (:before)",
+			"name": "::before",
 			"link": "/en-US/docs/Web/CSS/::before"
 		},
 		{
@@ -485,11 +485,11 @@
 			"link": "/en-US/docs/Web/CSS/:first-child"
 		},
 		{
-			"name": "::first-letter (:first-letter)",
+			"name": "::first-letter",
 			"link": "/en-US/docs/Web/CSS/::first-letter"
 		},
 		{
-			"name": "::first-line (:first-line)",
+			"name": "::first-line",
 			"link": "/en-US/docs/Web/CSS/::first-line"
 		},
 		{
